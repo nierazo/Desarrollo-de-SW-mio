@@ -1,0 +1,17 @@
+#titulo{
+    background-color: red;
+    font-family: 'Bebas Neue', Arial;
+    font-weight: 400;
+    font-size: 4em;
+    font-style: normal;
+}
+
+#cuerpo, #form{
+    font-family: 'Roboto Condensed', Courier;
+}
+
+#canciones{
+    font-family: "Metal Mania", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
